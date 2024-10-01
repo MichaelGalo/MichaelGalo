@@ -1,21 +1,7 @@
-## Welcome, stranger  👋
+## Hey there, I'm Michael  👋
 
-**🔭 Projects I'm really devoted to right now:**
-1. Transitioning my Roll for Recipe Web App from json-server to a RESTful Django API
-2. My server-side capstone: Chari-Tree, a app to help reach your philanthropy goals & track your impact
-3. Several NSS (Nashville Software School) Group Projects -- Graduating Nov. 1
+I'm a junior full-stack web developer entering the tech industry from the side-door.
 
-**🌱 Favorite learning subject right now:**
-  - Next.js & App routing
-  - Tailwind & Flowbite Workflow
-  - Django Template Reports & Integration Testing
-  
-**🤔 Struggling with:**
-  - Job Hunting & Tech Interview Prep
-  - Imposter Syndrome
-  
-**⚡ Things total strangers would never know about me:**
-  - I like fishing, but am afraid to pull the fish off the hook
-  - I was a weirdly good, competitve gymnast in my youth
-  - I once cut off my finger (Middle. all good now, you'd never know)
+Transitioning from a first career in non-profit marketing & communications, I hadn't quite found the analytical challenge I was craving in my career. Combine this with a lego-filled childhood and the door never opened named **engineering**, I decided to take that a leap of faith into a new realm: **software**. 
 
+After learning to solve real-life headaches with code, I discovered an intoxicating recipe of logic, creativity, imposter syndrome and deep fulfillment in the projects I was working on. After that, I knew I wasn't going back. This is the most fun I've had with my work in years. I can't wait to see how many more surprises software development has in store for me and how I can turn novel ideas into apps that make people smile. 
