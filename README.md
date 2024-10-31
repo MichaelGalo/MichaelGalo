@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+
 ## Hey there, I'm Michael  👋
 
 I'm a junior full-stack web developer entering the tech industry from the side-door.
@@ -27,5 +29,4 @@ After learning to solve some real-life headaches with code, I discovered an into
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=MichaelGalo)
+![Profile Views](https://komarev.com/ghpvc/?username=MichaelGalo&color=brightgreen)
