@@ -2,7 +2,7 @@
 
 ## Hey there, I'm Michael  👋
 
-I'm a junior full-stack web developer entering the tech industry from the side-door.
+I'm a full-stack web & data engineer entering the tech industry from the side-door.
 
 > "If you don't like the road you're walking, start paving another one!"
 > 
