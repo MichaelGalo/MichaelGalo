@@ -1,16 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Data+Engineer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-## Hey there, I'm Michael  👋
+## Hey there, I'm Michael 👋
 
-I'm a full-stack web & data engineer entering the tech industry from the side-door.
+I'm a data-focused software engineer with a full-stack foundation — passionate about building systems that turn raw data into real-world insight.
 
-> "If you don't like the road you're walking, start paving another one!"
-> 
-> *- Dolly Parton*
+> “If you don’t like the road you’re walking, start paving another one.”  
+> *– Dolly Parton*
 
-Transitioning from a first career in marketing & communications primarily for non-profits & B-Corp brands, I hadn't quite found the analytical challenge I was craving in my career. Combine this with a lego-filled childhood and the university path never walked named **computer science**, I decided to take Dolly's advice and pave my own path into: **software engineering**.
+After a first career in marketing and communications for mission-driven organizations, I realized I was craving deeper technical challenges and the satisfaction of building things from the ground up. That curiosity led me to code — and I haven’t looked back.
 
-After learning to solve some real-life headaches with code, I discovered an intoxicating recipe of logic, creativity, humbling debugging and deep fulfillment in the projects I was working on. After that, I knew I wasn't going back. This is the most fun I've had with my work in years and my brain was beings stretched more than ever. I can't wait to see how many more surprises software development has in store for me and how I can continue to turn novel ideas into apps that make an impact, solve problems, and make people smile.
+I love engineering solutions that blend logic and creativity. Whether it’s designing data pipelines, architecting databases, or building full web apps, I enjoy solving problems that require both structure and imagination.
+
+With a growing toolkit across many programming languages, cloud services, and modern web frameworks, I'm excited by work that makes data accessible, automates the boring stuff, and delivers meaningful impact. In short, I’m all about building systems that help others do what they do best.
 
 ## Languages and Tools:
 
@@ -21,10 +22,15 @@ After learning to solve some real-life headaches with code, I discovered an into
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CA1F27?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
