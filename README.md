@@ -2,12 +2,7 @@
 
 ## Hey there, I'm Michael 👋
 
-I'm a data-focused software engineer with a full-stack foundation — passionate about building systems that turn raw data into real-world insight.
-
-> “If you don’t like the road you’re walking, start paving another one.”  
-> *– Dolly Parton*
-
-After a first career in marketing and communications for mission-driven organizations, I realized I was craving deeper technical challenges and the satisfaction of building things from the ground up. That curiosity led me to code — and I haven’t looked back.
+I'm a data engineer with a full-stack web dev foundation.
 
 I love engineering solutions that blend logic and creativity. Whether it’s designing data pipelines, architecting databases, or building full web apps, I enjoy solving problems that require both structure and imagination.
 
