@@ -8,6 +8,8 @@ With a growing toolkit across many programming languages, agentic workflows, clo
 
 For recruiters or prospective employers, I'd encourage you to take a [look at my LinkedIn](https://www.linkedin.com/in/michaelthinks/) for my work history & resume. 
 
+![Profile Views](https://komarev.com/ghpvc/?username=MichaelGalo&color=brightgreen)
+
 ## Tech & Tools:
 
 <!-- 🗄️ Languages -->
@@ -71,9 +73,3 @@ For recruiters or prospective employers, I'd encourage you to take a [look at my
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-
-
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=MichaelGalo&color=brightgreen)
