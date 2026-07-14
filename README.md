@@ -10,7 +10,7 @@ For recruiters or prospective employers, I'd encourage you to take a [look at my
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MichaelGalo&color=brightgreen)
 
-## Current Stack (non-exhaustive):
+## Current Stack:
 
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
