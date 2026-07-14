@@ -2,7 +2,7 @@
 
 ## I'm Michael, a data engineer building enterprise-scale data solutions in healthcare.
  
-I design data pipelines, optimize petabyte-scale data warehouses, and build agentic operational tooling — with a full-stack engineering foundation underneath it all.
+I design data pipelines, optimize petabyte-scale data warehouses, and build agentic operational tooling with a full-stack engineering foundation underneath it all.
  
 Currently working in **Python** and **SQL** on **Google Cloud Platform** and **On-Prem** in my current role.
 
